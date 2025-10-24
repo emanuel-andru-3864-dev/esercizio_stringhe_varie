@@ -1,0 +1,8 @@
+C:\Users\carla.burdisso\Desktop\3C\ES25stringheVarie\ES25stringheVarie\bin\Debug\ES25stringheVarie.exe.config
+C:\Users\carla.burdisso\Desktop\3C\ES25stringheVarie\ES25stringheVarie\bin\Debug\ES25stringheVarie.exe
+C:\Users\carla.burdisso\Desktop\3C\ES25stringheVarie\ES25stringheVarie\bin\Debug\ES25stringheVarie.pdb
+C:\Users\carla.burdisso\Desktop\3C\ES25stringheVarie\ES25stringheVarie\obj\Debug\ES25stringheVarie.csproj.AssemblyReference.cache
+C:\Users\carla.burdisso\Desktop\3C\ES25stringheVarie\ES25stringheVarie\obj\Debug\ES25stringheVarie.csproj.SuggestedBindingRedirects.cache
+C:\Users\carla.burdisso\Desktop\3C\ES25stringheVarie\ES25stringheVarie\obj\Debug\ES25stringheVarie.csproj.CoreCompileInputs.cache
+C:\Users\carla.burdisso\Desktop\3C\ES25stringheVarie\ES25stringheVarie\obj\Debug\ES25stringheVarie.exe
+C:\Users\carla.burdisso\Desktop\3C\ES25stringheVarie\ES25stringheVarie\obj\Debug\ES25stringheVarie.pdb
